@@ -251,7 +251,7 @@ msgstr "Token truy cập phải được cung cấp cho từng đính kèm."
 #: code:addons/portal/static/src/xml/portal_chatter.xml:0
 #, python-format
 msgid "Avatar"
-msgstr "Ảnh đại diện"
+msgstr "Hình ảnh đại diện"
 
 #. module: portal
 #. openerp-web
@@ -1275,7 +1275,7 @@ msgstr "Mã Zip/Bưu chính"
 #: code:addons/portal/static/src/xml/portal_chatter.xml:0
 #, python-format
 msgid "avatar"
-msgstr "ảnh đại diện"
+msgstr "hình ảnh đại diện"
 
 #. module: portal
 #. openerp-web
