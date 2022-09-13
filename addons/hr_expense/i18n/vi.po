@@ -1693,7 +1693,7 @@ msgstr "Hiển thị tất cả dữ liệu có ngày xử lý tiếp theo trư�
 msgid ""
 "Snap pictures of your receipts and let Odoo<br> automatically create "
 "expenses for you."
-msgstr "Chụp ảnh hóa đơn và để Odoo<br> tự động tạo chi phí giúp bạn."
+msgstr "Chụp ảnh hóa đơn và để Viindoo<br> tự động tạo chi phí giúp bạn."
 
 #. module: hr_expense
 #: code:addons/hr_expense/models/hr_expense.py:0
